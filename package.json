@@ -1,0 +1,14 @@
+{
+  "name": "hack-jnu",
+  "version": "1.0.0",
+  "description": "Hackathon project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Meet Gelothra",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.20.0"
+  }
+}
